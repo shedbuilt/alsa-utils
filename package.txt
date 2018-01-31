@@ -1,0 +1,7 @@
+NAME=alsa-utils
+VERSION=1.1.5
+REVISION=1
+SRC=ftp://ftp.alsa-project.org/pub/utils/alsa-utils-1.1.5.tar.bz2
+SRCMD5=dfe6ea147a5e07a056919591c2f5dac3
+BUILDDEPS=alsa-lib
+INSTALLDEPS=alsa-lib
